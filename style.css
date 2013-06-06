@@ -1,0 +1,139 @@
+#border {
+	background-color: #ADC033;  
+	border-top: 13px solid #88891E; 
+	border-bottom: 1px solid #88891E; 
+	font-size: 2px; 
+	height: 100px;
+	width:100%;  /* */  
+	margin-bottom:-10px; 
+	margin-top:28px; 
+	padding: 0 0 20px 0;
+	position: relative; 
+	text-align:center;
+	width:100%; 
+}
+
+span{text-align: right; display: inline; margin-bottom: 1px; margin-left: 600px; float: right;}
+form{display: inline; text-align:right; margin-left: 800px;}
+
+
+.column1{text-align: center; height:350px; margin-top:80px; position:relative; background-color:white;}
+
+.column2{text-align: center; width: 100%; height:300px; background-color: #F2F2F2; border:1px solid #EEE; }
+/*.span3{ 
+   background-color:#F2F2F2; 
+}
+*/
+
+.pad{padding:6px;}
+
+
+
+.free {
+	width:100%;
+	height: 150px; 
+	background-color:#444444;
+    list-style-type:none;
+    position: absolute;
+   margin-bottom: 20px;
+   border:1px solid black;
+   text-align: center;
+}
+
+.sub{ color: #A9A9A9; font-size: 20px;}
+
+
+
+.nav {
+	list-style-type:none;
+	margin-left: 500px; margin-top: 20px;
+	padding:0;
+}
+
+
+
+.float {
+	float:right;
+	position: relative;
+}
+
+.block
+{
+	display:block;
+	width:80px;
+	height:40px;
+	color: #A9A9A9;
+	margin-top: -19px;
+	text-align: center;
+}
+
+.selected {
+	color: black;
+	background-image: url("img/arrow.gif");
+	background-repeat: no-repeat;
+	background-position:center top;
+}
+
+.lbar{
+	float:left;
+	position: relative;
+}
+
+.lock {
+	float: left;
+	display:block;
+	
+	color: #A9A9A9;
+	text-align: center;
+	position: relative;
+}
+
+
+
+
+
+
+
+}
+
+
+
+.dec {
+	text-decoration: none; color: #999999
+}
+
+.cent {
+	text-align: center; color: #FFFFFF;
+}
+
+.font{color: #A9A9A9; font-size: 20px; margin-left: 100px;}
+
+.space{margin: 0.6em 0em  0.6em 0em;
+       font-size: 45px; 
+       font-weight: bold; 
+       margin-left: 100px;
+       
+        }
+
+
+
+.row{background-color: #F2F2F2;}
+
+
+
+
+#scroll {
+	position: relative; 
+	margin-left: 95px;
+}
+
+#margin{
+	position:relative; 
+	margin-bottom:-25px;
+}
+
+#mg {
+	position: relative; 
+	margin-top:-40px;
+}
+
